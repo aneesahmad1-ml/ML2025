@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm [Your Full Name]</h1>
+<h1 align="center">Hi 👋, I'm [Anees Ahmad]</h1>
 <h3 align="center">Electrical Engineering Student | AI Enthusiast | Deep Learning Researcher</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 
