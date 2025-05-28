@@ -49,7 +49,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin)](https://linkedin.com/in/anees-ahmad-0800)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin)](https://linkedin.com/in/anees-ahmad-0800ba331)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:your.aneesahmad2k21@gmail.com)
 
 ---
