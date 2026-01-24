@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm [Anees Ahmad]</h1>
-<h3 align="center">Electrical Engineering Student | AI Enthusiast | Deep Learning Researcher</h3>
+<h1 align="center">Hi, I'm Anees Ahmad</h1>
+<h3 align="center">Electrical Engineering Graduate | AI Enthusiast | Deep Learning Researcher</h3>
 
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year Electrical Engineering student at **UET Peshawar**
-- 🔬 Currently researching **Object Detection in High-Resolution Aerial Imagery using DETR**
+- 🎓 Electrical Engineering graduate from **UET Peshawar**
+- 🔬 Recent research **Object Detection in High-Resolution Aerial Imagery using DETR**
 - 💡 Passionate about **Artificial Intelligence, Machine Learning**, and solving real-world problems with **deep learning**
 - 📊 Participating in the **CityLearn Challenge** on energy optimization
 - 🧠 Skilled in Python, PyTorch, TensorFlow, OpenCV, and data visualization
@@ -34,8 +34,6 @@
 - 🌍 [**CityLearn Challenge 2025**](https://github.com/your-username/citylearn-2025)  
   Multi-agent RL environment for energy consumption optimization
 
-- 🤖 [**ML & DL Mini Projects**](https://github.com/your-username/ml-dl-projects)  
-  Collection of machine learning and deep learning experiments and notebooks
 
 ---
 
