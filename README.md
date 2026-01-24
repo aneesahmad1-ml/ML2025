@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Electrical Engineering graduate from **UET Peshawar**
+- 🎓 Electrical Engineering Graduate from **UET Peshawar**
 - 🔬 Recent research **Object Detection in High-Resolution Aerial Imagery using DETR**
 - 💡 Passionate about **Artificial Intelligence, Machine Learning**, and solving real-world problems with **deep learning**
 - 📊 Participating in the **CityLearn Challenge** on energy optimization
@@ -31,7 +31,7 @@
 - 🚀 [**DETR on DOTA Dataset**](https://github.com/your-username/detr-dota)  
   Object detection in high-res aerial images using Detection Transformer (DETR)
 
-- 🌍 [**CityLearn Challenge 2025**](https://github.com/your-username/citylearn-2025)  
+- 🌍 [**CityLearn Challenge 2025**](https://github.com/aneesahmad1-ml/ML2025/tree/main/Open%20Ended%20Lab)  
   Multi-agent RL environment for energy consumption optimization
 
 
