@@ -28,7 +28,7 @@
 
 ### 📌 Featured Projects
 
-- 🚀 [**DETR on DOTA Dataset**](https://github.com/your-username/detr-dota)  
+- 🚀 [**DETR on DOTA Dataset**](https://github.com/aneesahmad1-ml/ML2025/tree/main/Detection%20Transformer-DOTA%20Dataset)  
   Object detection in high-res aerial images using Detection Transformer (DETR)
 
 - 🌍 [**CityLearn Challenge 2025**](https://github.com/aneesahmad1-ml/ML2025/tree/main/Open%20Ended%20Lab)  
