@@ -1,0 +1,24 @@
+Object Detection in High-Resolution Aerial Imagery Using Detection Transformer (DETR)
+Objective:
+This project investigates the use of the Detection Transformer (DETR) model for accurate object detection in high-resolution aerial imagery. The goal is to overcome limitations of traditional CNN-based object detectors in handling small, densely packed, and variably oriented objects within complex backgrounds. This research has broad applications in urban planning, environmental monitoring, surveillance, and disaster management.
+
+Methodology:
+•	Dataset: The DOTA (Dataset for Object Detection in Aerial Images) was used, containing over 2800 high-resolution aerial images with more than 188,000 annotated object instances across 15 classes (e.g., airplanes, vehicles, bridges).
+
+•	Preprocessing: Images were tiled, resized, normalized, and augmented. DOTA's oriented bounding box (OBB) annotations were converted to a format compatible with the DETR model.
+
+•	Model Architecture:
+•	Backbone: ResNet-50/101 for feature extraction.
+•	Transformer: Encoder-decoder structure with positional encodings and object queries.
+•	Prediction Heads: Classification and bounding box regression.
+•	Training and Evaluation:
+•	Trained using the AdamW optimizer with 1e-3 and 1e-4 learning rates.
+•	Evaluated with precision, recall, IoU, and mAP metrics.
+•	Compared against models like Faster R-CNN and YOLO.
+Key Findings:
+•	DETR outperformed traditional CNN detectors in complex scenes, with higher mAP scores (up to 18% better in some cases).
+•	The hybrid DETR-CNN approach further improved detection of small and oriented objects.
+•	Challenges such as slow convergence and high computational requirements were noted but partially mitigated with data and training optimizations.
+
+Impact:
+This study validates DETR as a powerful end-to-end solution for object detection in aerial imagery. It eliminates the need for anchor boxes and complex post-processing, making it a simpler and more robust alternative for real-world applications like disaster response and smart city planning. The project also aligns with SDG goals related to sustainable cities (SDG 11) and climate action (SDG 13).
